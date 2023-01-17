@@ -1,0 +1,179 @@
+Script started on Fri 16 Sep 2022 11:09:51 PM CDT
+[?1034hbash-4.2$ ./Caleb_Johnson 
+banner_id: 904075594
+ID PRIORITY RUNTIME--->PCB[0]
+A 4 1
+ID PRIORITY RUNTIME--->PCB[1]
+B 9 5 2
+ID PRIORITY RUNTIME--->PCB[2]
+C 5 3
+ID PRIORITY RUNTIME--->PCB[3]
+D 5 4
+ID PRIORITY RUNTIME--->PCB[4]
+E 7 5
+
+Before run,the conditon is:
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	9	2	R
+C	5	3	R
+D	5	4	R
+E	7	5	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	8	1	R
+C	5	3	R
+D	5	4	R
+E	7	5	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	7	0	F
+C	5	3	R
+D	5	4	R
+E	7	5	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	7	0	F
+C	5	3	R
+D	5	4	R
+E	6	4	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	7	0	F
+C	5	3	R
+D	5	4	R
+E	5	3	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	7	0	F
+C	4	2	R
+D	5	4	R
+E	5	3	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	7	0	F
+C	4	2	R
+D	4	3	R
+E	5	3	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	4	1	R
+B	7	0	F
+C	4	2	R
+D	4	3	R
+E	4	2	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	4	2	R
+D	4	3	R
+E	4	2	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	3	1	R
+D	4	3	R
+E	4	2	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	3	1	R
+D	3	2	R
+E	4	2	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	3	1	R
+D	3	2	R
+E	3	1	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	2	0	F
+D	3	2	R
+E	3	1	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	2	0	F
+D	2	1	R
+E	3	1	R
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	2	0	F
+D	2	1	R
+E	2	0	F
+ pressany key to continue...
+
+
+ID PRIORITY RUNTIME STATUS 
+-------------------------------------------------
+A	3	0	F
+B	7	0	F
+C	2	0	F
+D	1	0	F
+E	2	0	F
+ pressany key to continue...
+
+bash-4.2$ exit
+exit
+
+Script done on Fri 16 Sep 2022 11:10:50 PM CDT

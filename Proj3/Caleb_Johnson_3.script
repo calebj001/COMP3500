@@ -1,0 +1,55 @@
+Script started on Fri 14 Oct 2022 11:45:29 PM CDT
+[?1034hbash-4.2$ ./ Caleb_Johnson_3
+bash: ./: Is a directory
+bash-4.2$ ./ Caleb_Johnson_3[1PCaleb_Johnson_3[C[C[C[C[C[C[C[C[C[C[C[C
+m: input the number of processes
+4
+n: input the number of types of resources
+3
+Max Matrix: input the value of each element left to right, top to bottom
+7
+5
+3
+3
+2
+2
+9
+0
+2
+2
+2
+2
+Allocation Matrix: input the value of each element left to right, top to bottom
+0
+1
+0
+2
+0
+0
+3
+0
+2
+2
+1
+1
+Available Vector: input the value of each element left to right
+3
+3
+4
+The system is not safe
+A process start to request resources. The process number is: 
+1
+Each type resource requested by this proess
+1
+2
+2
+The system is not safe
+Your request is declined!
+0
+^C
+bash-4.2$ Ran out of time
+bash: Ran: command not found
+bash-4.2$ exit
+exit
+
+Script done on Fri 14 Oct 2022 11:47:28 PM CDT
